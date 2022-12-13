@@ -1,5 +1,5 @@
 def plant_recommendation(care):
-    if care = 'low':
+    if care : 'low':
         print('aloe')
     elif care == 'medium':
         print('pothos')
